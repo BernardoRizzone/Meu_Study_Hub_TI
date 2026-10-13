@@ -2,7 +2,7 @@
 
 Repositório de estudos e portfólio profissional na área de Tecnologia da Informação, criado na disciplina **Bootcamp I**.
 
-🌐 **Página do portfólio (GitHub Pages):** 
+🌐 **Página do portfólio (GitHub Pages):** https://bernardorizzone.github.io/Meu_Study_Hub_TI/
 💼 **LinkedIn:** https://www.linkedin.com/in/bernardo-rizzone-a66165318/
 
 ---

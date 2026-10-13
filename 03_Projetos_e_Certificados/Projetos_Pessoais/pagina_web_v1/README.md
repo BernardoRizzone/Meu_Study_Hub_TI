@@ -11,7 +11,7 @@ Primeiro projeto versionado com Git: uma página web estática de apresentação
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/SEU-USUARIO/Meu_Study_Hub_TI.git
+   git clone https://github.com/BernardoRizzone/Meu_Study_Hub_TI
    ```
 2. Abra o arquivo `index.html` desta pasta no navegador.
 
