@@ -49,5 +49,5 @@ Cada disciplina possui as subpastas `Atividades_e_Entregas/` e `Anotacoes_e_Resu
 
 ## 👤 Autor
 
-**SEU NOME COMPLETO** — Curso: CIENCIA DA COMPUTAÇÃO 
+Bernardo Rizzone Sousa Vale de Araujo — Curso: CIENCIA DA COMPUTAÇÃO 
 📧 bernardorizzone99@gmail.com

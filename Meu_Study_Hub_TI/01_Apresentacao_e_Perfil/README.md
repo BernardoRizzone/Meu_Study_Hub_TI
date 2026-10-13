@@ -5,15 +5,13 @@ Identidade profissional e currículo.
 ## Conteúdo (a adicionar)
 
 - [ ] `curriculo.pdf` — currículo atualizado
-- [ ] `perfil.md` — biografia acadêmica (5 a 10 linhas) e áreas de interesse
-
-## Áreas de interesse
-
-Estudante de Ciência da Computação apaixonado por entender o que acontece nos bastidores da tecnologia. Minha trajetória combina o raciocínio analítico com a curiosidade prática de compreender os sistemas de ponta a ponta — desde os protocolos de comunicação e infraestrutura até o desenvolvimento de software.
+- [ ] `perfil.md` — Estudante de Ciência da Computação apaixonado por entender o que acontece nos bastidores da tecnologia. Minha trajetória combina o raciocínio analítico com a curiosidade prática de compreender os sistemas de ponta a ponta — desde os protocolos de comunicação e infraestrutura até o desenvolvimento de software.
 
 Tenho forte interesse e familiaridade com ambientes Linux, redes de computadores, conceitos de cibersegurança e resolução de problemas complexos. Atualmente, foco em aprofundar meus conhecimentos em engenharia de software, algoritmos e arquitetura de sistemas para criar soluções eficientes e seguras.
 
 Estou em busca de oportunidades (estágio e projetos) onde eu possa aplicar minha base técnica, enfrentar desafios reais e continuar evoluindo constantemente no ecossistema de tecnologia.
+
+## Áreas de interesse
 
 🚀 Principais interesses: Desenvolvimento de Software | Redes & Infraestrutura | Cibersegurança | Linux | Resolução de Problemas
 
