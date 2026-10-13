@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Meu Study Hub TI</title>
+  <style>
+    :root { --azul: #1d4ed8; --azul-claro: #3b82f6; --fundo: #f4f7fb; --texto: #1f2937; }
+    * { box-sizing: border-box; }
+    body { margin: 0; font-family: Arial, Helvetica, sans-serif; background: var(--fundo); color: var(--texto); line-height: 1.6; }
+    header { background: linear-gradient(135deg, #0f172a, var(--azul)); color: #fff; padding: 3.5rem 1.5rem; text-align: center; }
+    header h1 { margin: 0 0 .5rem; font-size: 2.2rem; }
+    header p { margin: 0; opacity: .9; }
+    nav { margin-top: 1.5rem; display: flex; gap: .75rem; justify-content: center; flex-wrap: wrap; }
+    nav a { color: #fff; border: 1px solid rgba(255,255,255,.6); padding: .45rem 1rem; border-radius: 999px; text-decoration: none; font-size: .9rem; }
+    nav a:hover { background: rgba(255,255,255,.15); }
+    main { max-width: 900px; margin: 2rem auto; padding: 0 1.5rem; }
+    section { background: #fff; border-left: 4px solid var(--azul-claro); border-radius: 6px; padding: 1.25rem 1.75rem; margin-bottom: 1.5rem; box-shadow: 0 1px 3px rgba(0,0,0,.06); }
+    h2 { color: var(--azul); margin-top: 0; }
+    .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 1rem; }
+    .card { border: 1px solid #e5e7eb; border-radius: 8px; padding: 1rem; background: #fafbff; }
+    .card h3 { margin: 0 0 .4rem; font-size: 1.05rem; }
+    .card p { margin: 0 0 .6rem; font-size: .92rem; color: #4b5563; }
+    .card a { color: var(--azul); font-weight: bold; text-decoration: none; font-size: .9rem; }
+    pre { background: #0f172a; color: #e2e8f0; padding: 1rem; border-radius: 6px; overflow-x: auto; font-size: .85rem; }
+    footer { text-align: center; padding: 2rem 1rem; color: #6b7280; font-size: .9rem; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Meu Study Hub TI</h1>
+    <p>Portfólio de estudos e projetos em Tecnologia da Informação</p>
+    <nav>
+      <a href="#sobre">Sobre mim</a>
+      <a href="#disciplinas">Disciplinas</a>
+      <a href="#projetos">Projetos</a>
+      <a href="#estrutura">Estrutura</a>
+      <a href="#contato">Contato</a>
+    </nav>
+  </header>
+
+  <main>
+    <section id="sobre">
+      <h2>Sobre mim</h2>
+      <p><strong>Bernardo Rizzone Sousa Vale de Araujo</strong> — estudante de Ciencias da computação. Estudante de Ciência da Computação apaixonado por entender o que acontece nos bastidores da tecnologia. Minha trajetória combina o raciocínio analítico com a curiosidade prática de compreender os sistemas de ponta a ponta — desde os protocolos de comunicação e infraestrutura até o desenvolvimento de software.
+Tenho forte interesse e familiaridade com ambientes Linux, redes de computadores, conceitos de cibersegurança e resolução de problemas complexos. Atualmente, foco em aprofundar meus conhecimentos em engenharia de software, algoritmos e arquitetura de sistemas para criar soluções eficientes e seguras.
+Estou em busca de oportunidades (estágio e projetos) onde eu possa aplicar minha base técnica, enfrentar desafios reais e continuar evoluindo constantemente no ecossistema de tecnologia.
+Principais interesses: Desenvolvimento de Software | Redes & Infraestrutura | Cibersegurança | Linux | Resolução de Problemas.</p>
+      <p><strong>Objetivo do Study Hub:</strong> consolidar o aprendizado teórico em evidências práticas, organizar laboratórios de redes, scripts Linux e análises de cibersegurança e construir um portfólio técnico vivo para atrair oportunidades em infraestrutura.</p>
+    </section>
+
+    <section id="disciplinas">
+      <h2>Disciplinas do semestre</h2>
+      <div class="grid">
+        <div class="card"><h3>Bootcamp I</h3><p>Projeto integrador e construção do portfólio.</p><a href="02_Disciplinas_Atuais/Bootcamp_I/">Ver pasta →</a></div>
+        <div class="card"><h3>Lógica de Programação</h3><p>Algoritmos e resolução de problemas.</p><a href="02_Disciplinas_Atuais/Logica_de_Programacao/">Ver pasta →</a></div>
+        <div class="card"><h3>Banco de Dados 1</h3><p>Modelagem de dados e SQL.</p><a href="02_Disciplinas_Atuais/Banco_de_Dados_1/">Ver pasta →</a></div>
+        <div class="card"><h3>Desenvolvimento de Interface</h3><p>HTML, CSS e usabilidade.</p><a href="02_Disciplinas_Atuais/Desenvolvimento_de_Interface/">Ver pasta →</a></div>
+        <div class="card"><h3>Engenharia de Software</h3><p>Processos, requisitos e boas práticas.</p><a href="02_Disciplinas_Atuais/Engenharia_de_Software/">Ver pasta →</a></div>
+        <div class="card"><h3>Org. e Arquitetura de Computadores</h3><p>Hardware, memória e processamento.</p><a href="02_Disciplinas_Atuais/Org_e_Arquitetura_de_Computadores/">Ver pasta →</a></div>
+      </div>
+    </section>
+
+    <section id="projetos">
+      <h2>Projetos</h2>
+      <div class="grid">
+        <div class="card"><h3>Página Web v1.0</h3><p>Primeiro projeto versionado com Git.</p><a href="03_Projetos_e_Certificados/Projetos_Pessoais/pagina_web_v1/index.html">Abrir página →</a></div>
+      </div>
+    </section>
+
+    <section id="estrutura">
+      <h2>Estrutura do repositório</h2>
+<pre>Meu_Study_Hub_TI/
+├── 01_Apresentacao_e_Perfil/
+├── 02_Disciplinas_Atuais/
+│   ├── Bootcamp_I/
+│   ├── Logica_de_Programacao/
+│   ├── Banco_de_Dados_1/
+│   ├── Desenvolvimento_de_Interface/
+│   ├── Engenharia_de_Software/
+│   └── Org_e_Arquitetura_de_Computadores/
+└── 03_Projetos_e_Certificados/
+    └── Projetos_Pessoais/</pre>
+    </section>
+
+    <section id="contato">
+      <h2>Contato</h2>
+      <p>
+        📧 <a href="mailto:bernardorizzone99@gmail.com">bernardorizzone99@gmail.com</a><br>
+        💼 <a href="https://www.linkedin.com/in/bernardo-rizzone-a66165318/">LinkedIn</a><br>
+        🐙 <a href="">Repositório no GitHub</a>
+      </p>
+    </section>
+  </main>
+
+  <footer>Meu Study Hub TI · Versão 1.0</footer>
+</body>
+</html>
